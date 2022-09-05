@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/ivan-rabelo-b3586210b/",
+      href: "https://github.com/Ivanrabelo83/",
     },
     {
       id: 3,
