@@ -1,9 +1,9 @@
-import React from "react"
+import React from "react";
 
-import HeroImage from "../assets/heroImage.png"
-import { MdOutlineKeyboardArrowRight } from "react-icons/md"
+import HeroImage from "../assets/heroImage.png";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 
-import { Link } from "react-scroll"
+import { Link } from "react-scroll";
 
 const Home = () => {
   return (
@@ -21,12 +21,7 @@ const Home = () => {
             Front End Developer Jr.
           </h2>
           <p className="text-white py-4 max-w-md">
-            Sou designer há 10 anos e a programação sempre foi algo que sonhei
-            em trabalhar, desde então venho me aperfeiçoando nas principais
-            tecnologias que o mercado exige a um fron-end developer jr como
-            html,css,javascript,react.js, next.js, typescript e estou disponível
-            em aprender novas tecnlogias que a empresa que me contratar venha a
-            precisar.
+            EM BUSCA DE UMA OPORTUNIDADE!🚀👨‍💻
           </p>
 
           <div>
@@ -53,7 +48,7 @@ const Home = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

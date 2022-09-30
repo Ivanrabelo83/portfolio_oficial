@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 const About = () => {
   return (
@@ -17,24 +17,24 @@ const About = () => {
         </div>
         <div className="mt-10">
           <p className="text-xl ">
-            Meu nome é Ivan Rabelo Sou de Fortaleza/Ceará e moro no bairro
-            Messejana, filho de Alice e Francisco, tenho 4 irmãos: Zé Iran,
-            Marineide, Aurineide e Iraneide que faleceu em 2021 em decorrência
-            da covid 19.
-          </p>
-          <p className="text-xl mt-5">
-            Sou designer há 10 anos e no último ano iniciei a minha jornada no
-            mundo da programação com foco em Front End. Recentemente fiz um
-            investimento na compra de livros: Clean Code, Javascript: O guia,
-            Aprendendo react na prática. Tenho uma princesa de nome Alicia que
-            me faz rir demais e uma esposa maravilhosa que se chama Renata.
+            Meu nome é Ivan Rabelo Sou de Fortaleza/Ceará. Sou designer há 10
+            anos e professor voluntário de informática básica e designer gráfico
+            para crianças da comunidade de 12 à 17 anos de idade, no último ano
+            iniciei a minha jornada no mundo da programação com foco em Front
+            End. Deste então venho me aperfeiçoando cada vez mais nas princípais
+            tecnologias do mercado como html, css, javascript, react.js,
+            tailwind, typescript e next.js. Para me sentir mais vontade no dia a
+            dia como programador front end venho lendo o livro clean code e
+            metodologias ageis e consumindo muito conteúdo pelo youtube. Pra
+            descontrair eu gosto de música, séries, marvel, video game e
+            musculação.
           </p>
         </div>
 
         <br />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;
