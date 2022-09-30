@@ -16,7 +16,7 @@ const About = () => {
           </p>
         </div>
         <div className="mt-10">
-          <p className="text-xl ">
+          <p className="text-xl">
             Meu nome é Ivan Rabelo Sou de Fortaleza/Ceará. Sou designer há 10
             anos e professor voluntário de informática básica e designer gráfico
             para crianças da comunidade de 12 à 17 anos de idade, no último ano

@@ -1,7 +1,7 @@
-import React from "react"
-import { FaGithub, FaLinkedin } from "react-icons/fa"
-import { HiOutlineMail } from "react-icons/hi"
-import { BsFillPersonLinesFill } from "react-icons/bs"
+import React from "react";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { HiOutlineMail } from "react-icons/hi";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const SocialLinks = () => {
   const links = [
@@ -22,11 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-<<<<<<< HEAD
       href: "https://github.com/Ivanrabelo83",
-=======
-      href: "https://github.com/Ivanrabelo83/",
->>>>>>> 115501cdfe6a6c3a5b7943aa3bb517d7b1e0b61d
     },
     {
       id: 3,
@@ -49,7 +45,7 @@ const SocialLinks = () => {
       style: "rounded-br-md",
       download: true,
     },
-  ]
+  ];
 
   return (
     <div className="flex flex-col top-[35%] left-0 fixed">
@@ -76,7 +72,7 @@ const SocialLinks = () => {
         ))}
       </ul>
     </div>
-  )
-}
+  );
+};
 
-export default SocialLinks
+export default SocialLinks;
